@@ -1,0 +1,38 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 18px royalblue;
+}
+
+.heading_div{
+    box-shadow: 5px 5px 18px royalblue;
+    float:none;
+    background-color: sandybrown;
+    border-radius: 20px;
+    color: seagreen;
+}
+
+.heading_div2{
+    font-size: 18px;
+}
+
+.resultPtag{
+    box-shadow: 5px 5px 18px royalblue;
+    font-size: 20px;
+}
+.copyrightFooter{
+    position: fixed;
+    color: springgreen;
+    bottom: 0;
+    width: 100%;
+    background-color: tomato;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px dashed white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px royalblue;
+    margin-top: 20px; 
+}
